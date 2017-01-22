@@ -1,3 +1,13 @@
+This code is copied from https://github.com/cetic/cooja-radiologger-headless.
+I revise it due to benefit of my research.
+This new version of the plugin is capable of keeping separately among sent packets and recieved packets into files.
+
+Thank you. 
+[iPAS](ptiwatthanont@gmail.com)
+
+
+# Message from the original author
+
 This is a standalone plugin for COOJA to log the radio packets
 in headless mode. It is a stripped-down version of COOJA's 
 graphical Radio Logger. It allows to generate PCAPs while 
